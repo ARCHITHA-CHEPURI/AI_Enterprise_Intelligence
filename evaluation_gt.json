@@ -1,34 +1,3 @@
-[
-    {
-        "query": "What is the gross revenue of Wipro for Q3 FY26?",
-        "expected_source": "wipro_press-release-q1fy26.pptx"
-    },
-    {
-        "query": "Show me Nike products currently on discount",
-        "expected_source": "nike_discounts.json"
-    },
-    {
-        "query": "Details about Aarav Sharma's employment",
-        "expected_source": "employees.csv"
-    },
-    {
-        "query": "What are the common factors leading to employee attrition?",
-        "expected_source": "WA_Fn-UseC_-HR-Employee-Attrition.csv"
-    },
-    {
-        "query": "Summary of IBM's 2023 annual report",
-        "expected_source": "ibm-annual-report-2023.pdf"
-    },
-    {
-        "query": "Are there any deals on Nike Air Jordan shoes?",
-        "expected_source": "nike_discounts.json"
-    },
-    {
-        "query": "What department does Rohan Mehta work in?",
-        "expected_source": "employees.csv"
-    },
-    {
-        "query": "Wipro IT services segment revenue performance",
-        "expected_source": "wipro_press-release-q1fy26.pptx"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:19302c8d27dbd32d37b596707116f51020bf60a8170c684fba115a10193b7875
+size 1089
