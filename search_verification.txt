@@ -1,0 +1,19 @@
+﻿FAISS index loaded
+Metadata loaded
+Embedding model loaded
+
+Searching for: What are common symptoms of fever?
+
+Semantic Search Results:
+
+Result 1:
+Chunk Index: 11044
+Metadata: {'chunk_id': 'TMF-Child-Protection-Safeguarding-Policy-PDF.pdf_chunk_66', 'source': 'TMF-Child-Protection-Safeguarding-Policy-PDF.pdf', 'text': '(e) Regular follow up should be done by the concerned staff member. \n(f) The responsible staff shall be required to furnish a written report on the safety of \nchildren at the end of the event. \n(g) In case of a medical emergency during an outstation educational trip, the \naccompanying staff of the same sex as that of the child requiring care, may share the \nsame room with the child but not the same bed, and inform the concerned supervisor \nabout the need, or if possible, make alternative arrangements or, keeping in mind safety \nof all children, ensure that there are other children of the same sex also sharing the \nroom.\n \n(4) For ensuring protection, the following areas will receive particular attention: \n \n \n(i) General Crisis Management'}
+----------------------------------------
+Result 2:
+Chunk Index: 4701
+Metadata: {'chunk_id': 'spam_or_not_spam.csv_chunk_6', 'source': 'spam_or_not_spam.csv', 'text': 'software makers symantec and mcafee both report more than NUMBER new infections daily with no sign of letup at press time the british security firm messagelabs estimates that NUMBER in every NUMBER e mail messages holds a variation of the klez virus and says that klez has already surpassed last summer s sircam as the most prolific virus ever and some newer klez variants aren t merely nuisances they can carry other viruses in them that corrupt your data URL _______________________________________________ irregulars mailing list irregulars URL URL , label: 0. email:  in adding cream to spaghetti carbonara which has the same effect on pasta as making a pizza a deep pie i just had to jump in here as carbonara is one of my favourites to make and ask what the hell are you supposed to use'}
+----------------------------------------
+Result 3:
+Chunk Index: 11041
+Metadata: 

@@ -1,0 +1,5 @@
+Data/excel/amazon_sales_2025_INR_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+Data/doc/MICROSOFT_2024_Annual_Report.docx filter=lfs diff=lfs merge=lfs -text
+Data/pdfs/code_of_conduct.pdf filter=lfs diff=lfs merge=lfs -text
+/Data/processed/all_documents.json filter=lfs diff=lfs merge=lfs -text
+/ingestion.db filter=lfs diff=lfs merge=lfs -text
