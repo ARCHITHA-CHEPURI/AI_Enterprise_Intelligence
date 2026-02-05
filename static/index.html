@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise Knowledge Bot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="background-gradients">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+    </div>
+
+    <div class="main-container">
+        <header class="chat-header">
+            <div class="logo-area">
+                <div class="logo-icon">✨</div>
+                <h1>Knowledge<span class="highlight">Bot</span></h1>
+            </div>
+            <div class="header-controls">
+                <button id="theme-toggle" class="icon-btn">🌙</button>
+            </div>
+        </header>
+
+        <main class="chat-area" id="chat-container">
+            <div class="welcome-message">
+                <h2>How can I help you today?</h2>
+                <p>Ask me about company policies, earnings reports, or employee data.</p>
+                <div class="suggestions">
+                    <button class="suggestion-chip">What were the Q3 earnings?</button>
+                    <button class="suggestion-chip">Tell me about employee attrition.</button>
+                    <button class="suggestion-chip">Who works in the Sales department?</button>
+                </div>
+            </div>
+            <!-- Messages will be injected here -->
+        </main>
+
+        <footer class="input-area">
+            <form id="chat-form" class="glass-panel">
+                <input type="text" id="user-input" placeholder="Type your question..." autocomplete="off">
+                <button type="submit" id="send-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </form>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
