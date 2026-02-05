@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Vector DB & embeddings
+*.npy
+*.bin
+*.db
+
+# Generated outputs
+processed_chunks.json
+normalized_chunks.json
+ingested_data.json
+retrieval_output.txt
+evaluation_report.md
+search_verification.txt
+vector_metadata.json
+
+# Data files
+Data/
