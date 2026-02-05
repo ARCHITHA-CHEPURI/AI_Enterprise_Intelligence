@@ -20,9 +20,6 @@ evaluation_report.md
 search_verification.txt
 vector_metadata.json
 
-# Data files
-Data/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

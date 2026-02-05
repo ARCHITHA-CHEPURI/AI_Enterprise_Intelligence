@@ -1,0 +1,6 @@
+Employee_ID,Employee_Name,Job_Title,Department,Company,Location,Join_Date,Salary_INR
+E001,Aarav Sharma,Software Engineer,Engineering,TechNova Pvt Ltd,Bangalore,2022-06-15,1200000
+E002,Ananya Reddy,Data Analyst,Analytics,TechNova Pvt Ltd,Hyderabad,2021-09-10,950000
+E003,Rohan Mehta,Product Manager,Product,TechNova Pvt Ltd,Mumbai,2020-03-22,1800000
+E004,Neha Verma,HR Manager,Human Resources,TechNova Pvt Ltd,Delhi,2019-11-01,1400000
+E005,Arjun Patel,Cloud Architect,Engineering,TechNova Pvt Ltd,Pune,2023-01-05,2000000
