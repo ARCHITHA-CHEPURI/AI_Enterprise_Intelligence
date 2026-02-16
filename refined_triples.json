@@ -1,3 +1,6506 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:048fbfc842ac99541c6e4fdc0b5e966b6539acc24f69aead25fe0c0baa5ff1fa
-size 181113
+[
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Research",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Research",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Research\u2019s",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "PROVIDES",
+        "object": "Apache 2.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Research",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Research",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Research",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Research",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum System",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum System",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum System",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Heron",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Heron",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Heron",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Euro",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Euro",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Euro",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Qiskit"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Red Hat",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "NatWest Bank",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Cathay Pacific",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBMers",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "the U.S. Tax Cuts and Jobs Act",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Red Hat"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Transaction Processing"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "PROVIDES",
+        "object": "Qiskit 1.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "PROVIDES",
+        "object": "Qiskit 1.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Heron",
+        "predicate": "PROVIDES",
+        "object": "Qiskit 1.0"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "SAP",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Adobe",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "a-Service"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transaction Processing",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Apptio",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "EMEA",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "EMEA",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "EMEA",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "EMEA",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Asia Pacific",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Asia Pacific",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Asia Pacific",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Asia Pacific",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Research",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "RD&E",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "RD&E"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "The Weather Company",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "The Weather Company",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Zephyr Buyer",
+        "predicate": "WORKS_AT",
+        "object": "The Weather Company"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Zephyr Buyer",
+        "predicate": "WORKS_AT",
+        "object": "Francisco Partners"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "NOTE H. EARNINGS PER SHARE",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Euro",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Texas"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Non-U.S",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Non-U.S",
+        "predicate": "LOCATED_IN",
+        "object": "Mexico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Non-U.S",
+        "predicate": "LOCATED_IN",
+        "object": "South Africa"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Puerto Rico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Computershare Trust Company",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Computershare Trust Company",
+        "predicate": "LOCATED_IN",
+        "object": "Puerto Rico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "P.O. Box 43078",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "P.O. Box 43078",
+        "predicate": "WORKS_AT",
+        "object": "Computershare Trust Company"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "P.O. Box 43078",
+        "predicate": "LOCATED_IN",
+        "object": "Puerto Rico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "the NYSE Chicago",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "the NYSE Chicago",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "the NYSE Chicago",
+        "predicate": "LOCATED_IN",
+        "object": "Puerto Rico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "the NYSE Chicago",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Puerto Rico"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "P.O. Box 43078",
+        "predicate": "WORKS_AT",
+        "object": "Octo"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "AXA S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "The Vanguard Group"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "ABB Ltd"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Thomas Buberl",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Thomas Buberl",
+        "predicate": "WORKS_AT",
+        "object": "Board"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Thomas Buberl",
+        "predicate": "WORKS_AT",
+        "object": "AXA S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Thomas Buberl",
+        "predicate": "WORKS_AT",
+        "object": "The Vanguard Group"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Jane P. Edwards",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Jane P. Edwards",
+        "predicate": "WORKS_AT",
+        "object": "ABB Ltd"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "IBM Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "WebSphere",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "WebSphere"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Octo"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Transformation and Operations Kareem Yusuf"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "IBM Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "WORKS_AT",
+        "object": "Kyndryl, Inc"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Z",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Octo",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "James J. Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "James J. Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "IBM Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "James J. Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "IBM Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "Research"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "IBM Z"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "Octo"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "Transformation and Operations Kareem Yusuf"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "WORKS_AT",
+        "object": "IBM Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Robert D. Thomas",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "WebSphere"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "IBM Z"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "Octo"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "Transformation and Operations Kareem Yusuf"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "WORKS_AT",
+        "object": "IBM Quantum"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Joanne Wright",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Transformation and Operations Kareem Yusuf",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM Quantum",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "Kyndryl"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "watsonx"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "Instana"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "PROVIDES",
+        "object": "Randori"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "TruQua"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "Turbonomic"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Kyndryl, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "Waeg"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "U.S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Red Hat",
+        "predicate": "LOCATED_IN",
+        "object": "U.S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "StackRox",
+        "predicate": "LOCATED_IN",
+        "object": "U.S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "Red Hat, Inc",
+        "predicate": "LOCATED_IN",
+        "object": "U.S.A"
+    },
+    {
+        "source_document": "ibm-annual-report-2024.docx",
+        "subject": "COL03002",
+        "predicate": "LOCATED_IN",
+        "object": "U.S.A"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "M-Kopa",
+        "predicate": "LOCATED_IN",
+        "object": "Ita\u00fa"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "M-Kopa",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "M-Kopa",
+        "predicate": "LOCATED_IN",
+        "object": "Indonesia"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "M-Kopa",
+        "predicate": "LOCATED_IN",
+        "object": "Finastra"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "GitHub",
+        "predicate": "LOCATED_IN",
+        "object": "Ita\u00fa"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "GitHub",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "GitHub",
+        "predicate": "LOCATED_IN",
+        "object": "Indonesia"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Ita\u00fa"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Brazil"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Indonesia"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Finastra"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Dynamics 365",
+        "predicate": "LOCATED_IN",
+        "object": "Teams Premium"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "SAP",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "GitHub",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Windows",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "SAP, Service Now",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "WORKS_AT",
+        "object": "SAP"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "WORKS_AT",
+        "object": "GitHub"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "WORKS_AT",
+        "object": "Windows"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "LOCATED_IN",
+        "object": "Nuance"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "WORKS_AT",
+        "object": "SAP, Service Now"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "UI Path",
+        "predicate": "WORKS_AT",
+        "object": "Azure"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "Anthropic"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Anthropic"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Cisco",
+        "predicate": "LOCATED_IN",
+        "object": "Anthropic"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Broadcom",
+        "predicate": "LOCATED_IN",
+        "object": "Anthropic"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Azure",
+        "predicate": "LOCATED_IN",
+        "object": "Anthropic"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "SAP",
+        "predicate": "PROVIDES",
+        "object": "Apache"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "IBM",
+        "predicate": "PROVIDES",
+        "object": "Apache"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Broadcom",
+        "predicate": "PROVIDES",
+        "object": "Apache"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "MD&A",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Amy E. Hood",
+        "predicate": "WORKS_AT",
+        "object": "Office"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Reid Hoffman",
+        "predicate": "WORKS_AT",
+        "object": "Reprogrammed"
+    },
+    {
+        "source_document": "MICROSOFT_2024_Annual_Report.docx",
+        "subject": "Office",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "aura3",
+        "predicate": "PROVIDES",
+        "object": "FitzGilbert"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "MEfyBDVS67t4dxICLjOBcgJGFCYiCFJBRx9lCDdmbDzqHFRe5RijThZmQ0T6qCUwL9MhjU42C7zjws9t/bzF2Tc6YF6MLgJvK/qLgY/",
+        "predicate": "LOCATED_IN",
+        "object": "WrCwvq0lG"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "Emmey Matoshin",
+        "predicate": "WORKS_AT",
+        "object": "blue"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "Reina Trobey",
+        "predicate": "WORKS_AT",
+        "object": "aura6"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "Marilyn Seeman",
+        "predicate": "WORKS_AT",
+        "object": "aura6"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "Rodrique Coulston",
+        "predicate": "WORKS_AT",
+        "object": "brown"
+    },
+    {
+        "source_document": "email sentiment analysis dataset.csv",
+        "subject": "Rodrique Coulston",
+        "predicate": "WORKS_AT",
+        "object": "aura9"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "moscow"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "british s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ibm",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the british press",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the british press",
+        "predicate": "LOCATED_IN",
+        "object": "france"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "newbie",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin mason",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin maccarthy",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "manchester s heaton park",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "manchester s heaton park",
+        "predicate": "LOCATED_IN",
+        "object": "eaton"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "randy",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "parker",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the via URL inc group",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eircom",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eircom",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eircom",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "panama"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "soham schoolgirls jessica chapman",
+        "predicate": "LOCATED_IN",
+        "object": "wrexham"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white house",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u n",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ritz",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the bank s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the bank s",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the south african reserve bank",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the south african reserve bank",
+        "predicate": "LOCATED_IN",
+        "object": "south africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "west africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the bbc s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "stockholm"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "norrby",
+        "predicate": "LOCATED_IN",
+        "object": "tokyo"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american h",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "fema",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "fema",
+        "predicate": "LOCATED_IN",
+        "object": "namibia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "murdoch s news corp bid",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "excerpt",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "cursor"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "russia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "british s",
+        "predicate": "LOCATED_IN",
+        "object": "russia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "north york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cam ron",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "toshiba",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "exmh_status",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "peru"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the us mcmurdo",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the us army",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "biotropica camargo",
+        "predicate": "LOCATED_IN",
+        "object": "brazil"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "sony",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "sony",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "zambia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "zambia s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "zambia s",
+        "predicate": "LOCATED_IN",
+        "object": "zambia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "zambia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "zambia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the european court",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "warner",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american h",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american h",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "arizona"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jargon",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jargon",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mci worldcom",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "argon",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "argon",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "chicago"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ibm",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bugtraq cross",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bugtraq cross",
+        "predicate": "LOCATED_IN",
+        "object": "paris"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cvs nessus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "pakistan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the texas pacific group",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific s",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific s",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the texas pacific",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific s acquisition",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "texas pacific s acquisition",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "xerox",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "xerox",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "boeing",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "parker",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "parker",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "parker",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "scorsese s",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "scorsese s",
+        "predicate": "LOCATED_IN",
+        "object": "south boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "scorsese s",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "boston s drug",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "boston s drug",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "boston s drug",
+        "predicate": "LOCATED_IN",
+        "object": "whitey"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "s boston",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "s boston",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "south boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nokia",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "amr interactive in",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cmdrtaco quoting ant quoting carmack greg",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cmdrtaco quoting ant quoting carmack greg",
+        "predicate": "LOCATED_IN",
+        "object": "cmdrtaco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "rambus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stanford",
+        "predicate": "LOCATED_IN",
+        "object": "santa barbara"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "santa barbara"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eirikur",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cse ucsc",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cse ucsc",
+        "predicate": "LOCATED_IN",
+        "object": "ucsc"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "msgs",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "kre pick",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "stamford"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "kana the company i",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "bangkok"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "lynch s company",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "british s",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "lynch s office",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "lynch s office",
+        "predicate": "LOCATED_IN",
+        "object": "bangkok"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mobius",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "iran"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "france"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "buxton s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "kaz s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "randy schiltz s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the manhattan institute",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the manhattan institute",
+        "predicate": "LOCATED_IN",
+        "object": "manhattan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american war",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american war",
+        "predicate": "LOCATED_IN",
+        "object": "korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "randy",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white house",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white house",
+        "predicate": "LOCATED_IN",
+        "object": "nebraska"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white house",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the white house",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the white house",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the white house",
+        "predicate": "LOCATED_IN",
+        "object": "nebraska"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the white house",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bush s ranch",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "navy",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "navy",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bart",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the world s ills",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ce qui",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ce qui",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "rsa bsafe",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "rsa keon",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bristol uk",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin mason jm jmason org",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin mason jm jmason",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "paris"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "fema",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "fema",
+        "predicate": "LOCATED_IN",
+        "object": "new york city"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "morbus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "akamorbus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "san francisco reuters",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "san francisco reuters",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "russia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "pakistan s",
+        "predicate": "LOCATED_IN",
+        "object": "pakistan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "monterrey mexico march",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "monterrey mexico march",
+        "predicate": "LOCATED_IN",
+        "object": "mexico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "europe africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "america s",
+        "predicate": "LOCATED_IN",
+        "object": "morocco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato s membership",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ibm",
+        "predicate": "LOCATED_IN",
+        "object": "cuba"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the world s worst",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ibm",
+        "predicate": "LOCATED_IN",
+        "object": "ussr"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "ussr"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato s",
+        "predicate": "LOCATED_IN",
+        "object": "ussr"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stanford",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stanford",
+        "predicate": "LOCATED_IN",
+        "object": "chicago"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "harvard",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nasa",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s team",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stanford",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "graham the museum s chief curator",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "china ltd says",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "china ltd says",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "china ltd says",
+        "predicate": "LOCATED_IN",
+        "object": "beijing"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "burbank",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ritz",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "oregon"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "jefferson"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "oregon"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jefferson break",
+        "predicate": "LOCATED_IN",
+        "object": "jefferson"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "fema",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white house",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the white house",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "wolfowitz s famous",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ccm cms",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "hartford one",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "hartford one",
+        "predicate": "LOCATED_IN",
+        "object": "hartford"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "hartford"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "dow jones company inc",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "dow jones company inc",
+        "predicate": "LOCATED_IN",
+        "object": "paris"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "reuters news",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "wwii"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "france"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "abc news",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "abc news",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bausch",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford motor",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "s essay",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "winston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "acuitive inc",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eu us",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "eu us",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "msnbc",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "thurman strom news",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bush s phony war",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bush s phony war",
+        "predicate": "LOCATED_IN",
+        "object": "new york"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bush s phony war",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "panasas inc pioneering",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mpt s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nasa",
+        "predicate": "LOCATED_IN",
+        "object": "austin"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "panasas inc pioneering",
+        "predicate": "LOCATED_IN",
+        "object": "austin"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "xxxxxxx xxxxxxx",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mankkaa",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "macintosh",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "msgs",
+        "predicate": "LOCATED_IN",
+        "object": "msgid"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "robert wa ldner",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mbox",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "spamassassin p",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the world s fastest",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "sys types h",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nonspam s o score",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nonspam s o",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the world s fastest",
+        "predicate": "LOCATED_IN",
+        "object": "mijb"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u n",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "justin",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "infinisource inc jburke infinisource com",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paul fries",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "vipul s razor",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "spamassassin sa",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mac s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nsk yi org",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "java bean",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "spamcan",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "msgs",
+        "predicate": "LOCATED_IN",
+        "object": "msgs mboxes"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mbox",
+        "predicate": "LOCATED_IN",
+        "object": "msgs mboxes"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "msgs",
+        "predicate": "LOCATED_IN",
+        "object": "strip html"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "neil s results",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the us coast guard",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the us coast guard",
+        "predicate": "LOCATED_IN",
+        "object": "san luis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "guayaquil",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "north beach"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "the west coast"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "iowa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "swiss bank",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "swiss bank",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "aclu texas",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "aclu texas",
+        "predicate": "LOCATED_IN",
+        "object": "texas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "aclu texas",
+        "predicate": "LOCATED_IN",
+        "object": "hollywood"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "aclu texas",
+        "predicate": "LOCATED_IN",
+        "object": "austin"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "kazaa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "kazaa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mpt s",
+        "predicate": "LOCATED_IN",
+        "object": "rome"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "imo chimera s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "tiburon s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "boston s forsyth institute",
+        "predicate": "LOCATED_IN",
+        "object": "boston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the supreme court",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "turkey"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nato",
+        "predicate": "LOCATED_IN",
+        "object": "montana"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bank s dotcom boom years",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american museum",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "american museum",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "iraq"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "christie s",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "matsushita",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "matsushita",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "goodman",
+        "predicate": "LOCATED_IN",
+        "object": "acton"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "goodman",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "jargon",
+        "predicate": "LOCATED_IN",
+        "object": "arizona"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "argon",
+        "predicate": "LOCATED_IN",
+        "object": "arizona"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "vista",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "vista",
+        "predicate": "LOCATED_IN",
+        "object": "arizona"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "sony",
+        "predicate": "PROVIDES",
+        "object": "bmw ferrari ikea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stanford",
+        "predicate": "LOCATED_IN",
+        "object": "rome"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nokia",
+        "predicate": "PROVIDES",
+        "object": "bmw ferrari ikea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "britney spears",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "rome"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ikea",
+        "predicate": "LOCATED_IN",
+        "object": "france"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ikea",
+        "predicate": "PROVIDES",
+        "object": "bmw ferrari ikea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ikea",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s",
+        "predicate": "LOCATED_IN",
+        "object": "russia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ac uk wrote",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ac uk wrote",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ac uk wrote",
+        "predicate": "LOCATED_IN",
+        "object": "san francisco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "treasury",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "attn",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "co ltd cmc",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "broker s commission",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "n n p c",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "luis pastor",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ike ejoh bank",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "chevron",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mitsubishi",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "winston"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ebay auction news",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "casa",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "south africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mariam m",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the chamber of commerce",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "trans pacific",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the u s navy",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "u s army",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "west africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "yahoo",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "attn",
+        "predicate": "LOCATED_IN",
+        "object": "ncis"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "attn",
+        "predicate": "LOCATED_IN",
+        "object": "west africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "the ivoirian chamber of commerce",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "terroir",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "usa france",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "usa france",
+        "predicate": "LOCATED_IN",
+        "object": "france"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "usa france",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "namibia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "mexico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "morocco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "macau"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "luxembourg"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "macedonia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "martin",
+        "predicate": "LOCATED_IN",
+        "object": "mauritania"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "japan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "mexico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "macau"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "kazakhstan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "luxembourg"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "macedonia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "mauritania"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "russia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "peru"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "panama"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "romania"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "norway"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "PROVIDES",
+        "object": "rico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "nicaragua"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "namibia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "mexico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "morocco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "macau"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "luxembourg"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "macedonia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "mauritania"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "micronesia",
+        "predicate": "LOCATED_IN",
+        "object": "nicaragua"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "african rep",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "african rep",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "african rep",
+        "predicate": "LOCATED_IN",
+        "object": "costa rica"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "african rep",
+        "predicate": "LOCATED_IN",
+        "object": "british virgin"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "african rep",
+        "predicate": "LOCATED_IN",
+        "object": "burma"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "excerpt",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stranke",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stranke",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stranke",
+        "predicate": "PROVIDES",
+        "object": "svom heroju"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "stranke",
+        "predicate": "LOCATED_IN",
+        "object": "odborima"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "rad svog",
+        "predicate": "LOCATED_IN",
+        "object": "uk"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white america",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "white america",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "tc_user",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "tc_user",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "johnson home",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "nbc cbs",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ikoyi",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "san _",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "johanesburg south africa",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "johanesburg south africa",
+        "predicate": "LOCATED_IN",
+        "object": "south africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "johanesburg south africa",
+        "predicate": "LOCATED_IN",
+        "object": "johanesburg"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "namibia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "pakistan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "north korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "morocco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paraguay",
+        "predicate": "LOCATED_IN",
+        "object": "san marino"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "brazil"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "aruba"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "bahamas"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "bhutan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "bosnia botswana",
+        "predicate": "LOCATED_IN",
+        "object": "burma"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "namibia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "pakistan"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "mexico"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "north korea"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "morocco"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "norway"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "macau"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "luxembourg"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "macedonia"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "mauritania"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "moldova monaco",
+        "predicate": "LOCATED_IN",
+        "object": "nicaragua"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "fiji"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "gm",
+        "predicate": "LOCATED_IN",
+        "object": "sont"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "warner",
+        "predicate": "LOCATED_IN",
+        "object": "marriott"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "warner",
+        "predicate": "LOCATED_IN",
+        "object": "hartford"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "ford",
+        "predicate": "LOCATED_IN",
+        "object": "marriott"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "cna s",
+        "predicate": "LOCATED_IN",
+        "object": "america"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "marriott chicago",
+        "predicate": "LOCATED_IN",
+        "object": "washington"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "marriott chicago",
+        "predicate": "LOCATED_IN",
+        "object": "chicago"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "marriott chicago",
+        "predicate": "LOCATED_IN",
+        "object": "marriott"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "marriott warner",
+        "predicate": "LOCATED_IN",
+        "object": "marriott"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "marriott warner",
+        "predicate": "LOCATED_IN",
+        "object": "hartford"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "quantum",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "paragonic reserve",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "crocus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mouton frutcus",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "attn",
+        "predicate": "LOCATED_IN",
+        "object": "south africa"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mianyang",
+        "predicate": "LOCATED_IN",
+        "object": "us"
+    },
+    {
+        "source_document": "spam_or_not_spam.csv",
+        "subject": "mianyang",
+        "predicate": "LOCATED_IN",
+        "object": "china"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Swoosh Motion",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Swoosh",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Quartz",
+        "predicate": "WORKS_AT",
+        "object": "V7nmLW"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Quartz",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "WORKS_AT",
+        "object": "PQLBWG5f"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Swoosh Motion",
+        "predicate": "LOCATED_IN",
+        "object": "aws6DzFU"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "aws6DzFU"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Dri-FIT",
+        "predicate": "LOCATED_IN",
+        "object": "aws6DzFU"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Swoosh",
+        "predicate": "LOCATED_IN",
+        "object": "aws6DzFU"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Dri-FIT",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "StD6EoWp",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "16M929-ACG",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "bOS2oRFL"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "26K562-ACG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT Pro"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "26M536-ACG",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "zwmoqnsa",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "26M880-AFN",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "HpXXzX5x",
+        "predicate": "LOCATED_IN",
+        "object": "aws6DzFU"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "HpXXzX5x"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "WORKS_AT",
+        "object": "26N049-F66"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "Blue Beyond"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "T-Shirt",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Plum Fog",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Plum Fog",
+        "predicate": "WORKS_AT",
+        "object": "bOS2oRFL"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "26N336-ACG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mink Brown",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mint Candy",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Top",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Shine Boxy Tee",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Shine Boxy Tee",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT Pro"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "36M272-ACG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT One"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Heather",
+        "predicate": "WORKS_AT",
+        "object": "zwmoqnsa"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "36M694-C60"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Dri-FIT",
+        "predicate": "PROVIDES",
+        "object": "36M694-C60"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "T-Shirt",
+        "predicate": "PROVIDES",
+        "object": "36M694-C60"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "36M934-AAJ",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "36N165-ACG",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "36N284-ADZ"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "U5p6c3vQ",
+        "predicate": "PROVIDES",
+        "object": "36N284-ADZ"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "36N336-ACG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mink Brown",
+        "predicate": "WORKS_AT",
+        "object": "Nike Wild Warmth"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mink Brown",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Fire Pink",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Fire Pink",
+        "predicate": "WORKS_AT",
+        "object": "45D138-AF4"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Fire Pink",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Orewood Brown",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Orewood Brown",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Oxford",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Oxford",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Archaeo Brown",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Archaeo Brown",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Indy Bra",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Indy Bra",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "rZOJU60h"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Bike Shorts",
+        "predicate": "LOCATED_IN",
+        "object": "rZOJU60h"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Big Kids",
+        "predicate": "LOCATED_IN",
+        "object": "rZOJU60h"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Hyper Pink",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Hyper Pink",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Top",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Crossbody Bag",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Stefan Janoski",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Stefan Janoski",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Stefan Janoski",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids' Skate Shoes"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Stefan Janoski",
+        "predicate": "WORKS_AT",
+        "object": "Nike SB"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "56K729-AFN"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Match Bodysuits",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Match Bodysuits",
+        "predicate": "WORKS_AT",
+        "object": "Nike E1D1"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Match Bodysuits",
+        "predicate": "WORKS_AT",
+        "object": "Birch Heather/Birch Heather"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Match Bodysuits",
+        "predicate": "WORKS_AT",
+        "object": "Birch Heather"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Romper",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Romper",
+        "predicate": "WORKS_AT",
+        "object": "56M949-AAJ"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Ready"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "Nike Ready"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Hyperice Hyperboot",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Baby Jumpman",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Baby Jumpman",
+        "predicate": "WORKS_AT",
+        "object": "ES83r2lD"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "ES83r2lD"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Pink Foam",
+        "predicate": "WORKS_AT",
+        "object": "Nike UPF"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Futura",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Futura",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Futura",
+        "predicate": "WORKS_AT",
+        "object": "76J575-K25"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Futura",
+        "predicate": "WORKS_AT",
+        "object": "Khaki"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "OO4b3k76"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Midnight Navy",
+        "predicate": "LOCATED_IN",
+        "object": "OO4b3k76"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "LOCATED_IN",
+        "object": "OO4b3k76"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "76K921-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "76K905-U10",
+        "predicate": "LOCATED_IN",
+        "object": "OO4b3k76"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "76K921-U90",
+        "predicate": "LOCATED_IN",
+        "object": "OO4b3k76"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "kzZ2Pt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Ready"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Crew Top",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "Bn210YFd"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT Pro"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Dri-FIT",
+        "predicate": "LOCATED_IN",
+        "object": "Bn210YFd"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "76M749-U10"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "LOCATED_IN",
+        "object": "Bn210YFd"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "76M749-U10",
+        "predicate": "LOCATED_IN",
+        "object": "Bn210YFd"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "T-Shirt",
+        "predicate": "LOCATED_IN",
+        "object": "Bn210YFd"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smokey Blue",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smokey Blue",
+        "predicate": "WORKS_AT",
+        "object": "gYYHRDvG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smokey Blue",
+        "predicate": "WORKS_AT",
+        "object": "NA1kGDYF"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "76N041-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "76N061-G25"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Midnight Navy"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "76N257-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Top",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Top",
+        "predicate": "WORKS_AT",
+        "object": "76N257-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "7A0128-R78"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Futura",
+        "predicate": "WORKS_AT",
+        "object": "Nike Futura UPF 40+"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mini Backpack",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mini Backpack",
+        "predicate": "WORKS_AT",
+        "object": "F571X0HR"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Futura UPF 40+"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Brim Cap",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Brim Cap",
+        "predicate": "WORKS_AT",
+        "object": "F571X0HR"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Carbon Heather",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "UIfrqBWM"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "ES83r2lD"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "ES83r2lD"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "86M211-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "gYYHRDvG"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "N8HJTK4"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Futura T-Shirt",
+        "predicate": "WORKS_AT",
+        "object": "ikpdTV26"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "8A0581-R78"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey/White/Volt/White",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey/White/Volt/White",
+        "predicate": "WORKS_AT",
+        "object": "Nike SB"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike SB"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "B1koBJ"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "Nike Aqua Sock 360"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Archaeo Brown",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids' Chicago Pants"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Archaeo Brown",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Big Kids",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Big Kids' Chicago Pants",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Mesh Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Soccer Jersey",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Soccer Jersey",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Midweight Puffer",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Midweight Puffer",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Terry Shorts",
+        "predicate": "WORKS_AT",
+        "object": "95F051-U90"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Orewood Brown",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Iron Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Iron Grey",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Iron Grey",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cave Stone",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cave Stone",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cave Stone",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "T24pWf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "LOCATED_IN",
+        "object": "T24pWf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Big Kids",
+        "predicate": "LOCATED_IN",
+        "object": "T24pWf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Sack",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Sack",
+        "predicate": "LOCATED_IN",
+        "object": "T24pWf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Jersey Backpack",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Jersey Backpack",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Brim Cap",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Tote Bag",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Wolf Grey",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "mW6dbV"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Big Kids",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Swoosh Repeat Beanie",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids' Signature Curved"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Brim Cap",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids' Signature Curved"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Racer Blue",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Racer Blue",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gym Red",
+        "predicate": "WORKS_AT",
+        "object": "QMCHFM"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cotton Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cotton Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cotton Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "QMCHFM"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "QMCHFM"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "BLKvfj"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Boxer Briefs",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Swingman Jersey",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Swingman Jersey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Swingman Jersey",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cameron Brink",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cameron Brink",
+        "predicate": "WORKS_AT",
+        "object": "Nike Dri-FIT"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Cameron Brink",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Victor Wembanyama San Antonio",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Victor Wembanyama San Antonio",
+        "predicate": "WORKS_AT",
+        "object": "Big Kids"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "A11956HOWD25-BLK"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "A11956SUAM25-BLK"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "A11956YARD25-BLK"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Scarf",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Soccer Scarf",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "OL Reign",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "OL Reign",
+        "predicate": "WORKS_AT",
+        "object": "Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "OL Reign",
+        "predicate": "WORKS_AT",
+        "object": "Nike Soccer Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "New Orchid",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "New Orchid",
+        "predicate": "WORKS_AT",
+        "object": "Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "New Orchid",
+        "predicate": "WORKS_AT",
+        "object": "Nike Soccer Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Scarf",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike Soccer Scarf",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike NWSL Scarf",
+        "predicate": "LOCATED_IN",
+        "object": "Chicago"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gotham FC",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gotham FC",
+        "predicate": "WORKS_AT",
+        "object": "Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Gotham FC",
+        "predicate": "WORKS_AT",
+        "object": "Nike NWSL Scarf"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "AJ5489-247"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Khaki",
+        "predicate": "PROVIDES",
+        "object": "AJ5489-247"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Khaki/Khaki",
+        "predicate": "PROVIDES",
+        "object": "AJ5489-247"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "AO2372-123"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Nike",
+        "predicate": "PROVIDES",
+        "object": "AO2372-420"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Cheer"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Off Noir"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "T-Shirt"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Smoke Grey",
+        "predicate": "WORKS_AT",
+        "object": "Nike Cheer"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Baby Crib Bootie",
+        "predicate": "WORKS_AT",
+        "object": "Nike"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "Nike Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "ZxcGlVup",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "ZxcGlVup"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "Grey Heather",
+        "predicate": "WORKS_AT",
+        "object": "B11377SC25-BLK"
+    },
+    {
+        "source_document": "nike_discounts.json",
+        "subject": "B11377SC25-BLK",
+        "predicate": "PROVIDES",
+        "object": "Swoosh"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "IBM",
+        "predicate": "PROVIDES",
+        "object": "Information 4.3"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Accurate",
+        "predicate": "PROVIDES",
+        "object": "Information 4.3"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Be Honest 4.2",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Be Honest 4.2",
+        "predicate": "WORKS_AT",
+        "object": "Accurate"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Be Honest 4.2",
+        "predicate": "WORKS_AT",
+        "object": "Services"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Services",
+        "predicate": "PROVIDES",
+        "object": "Information 4.3"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Thomas Watson",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "BussinessConductGuidelines_accessible_2019.pdf",
+        "subject": "Thomas Watson",
+        "predicate": "WORKS_AT",
+        "object": "IBMer"
+    },
+    {
+        "source_document": "infosys-esg-employee-wellness-and-experience.pdf",
+        "subject": "Faster Staffing",
+        "predicate": "LOCATED_IN",
+        "object": "F.L.U.I.D"
+    },
+    {
+        "source_document": "infosys-esg-employee-wellness-and-experience.pdf",
+        "subject": "Infoscions",
+        "predicate": "LOCATED_IN",
+        "object": "F.L.U.I.D"
+    },
+    {
+        "source_document": "infosys-esg-employee-wellness-and-experience.pdf",
+        "subject": "FLUID",
+        "predicate": "LOCATED_IN",
+        "object": "F.L.U.I.D"
+    },
+    {
+        "source_document": "infosys-esg-employee-wellness-and-experience.pdf",
+        "subject": "Performance",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "infosys-esg-employee-wellness-and-experience.pdf",
+        "subject": "the USA \u2022 Certified",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "ibm-1q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-1q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "ARMONK"
+    },
+    {
+        "source_document": "ibm-1q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "NYSE"
+    },
+    {
+        "source_document": "ibm-1q25-earnings-press-release.pptx",
+        "subject": "James Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-2q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-2q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "ARMONK"
+    },
+    {
+        "source_document": "ibm-2q25-earnings-press-release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "NYSE"
+    },
+    {
+        "source_document": "ibm-2q25-earnings-press-release.pptx",
+        "subject": "James Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm-2q25-earnings-press-release.pptx",
+        "subject": "Sarah Meron",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm_3quarterly release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "ibm_3quarterly release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "ARMONK"
+    },
+    {
+        "source_document": "ibm_3quarterly release.pptx",
+        "subject": "Arvind Krishna",
+        "predicate": "WORKS_AT",
+        "object": "NYSE"
+    },
+    {
+        "source_document": "ibm_3quarterly release.pptx",
+        "subject": "James Kavanaugh",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "GBP/USD",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "AUD/USD",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "APMEA",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Aparna Iyer",
+        "predicate": "WORKS_AT",
+        "object": "APMEA"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Aparna Iyer",
+        "predicate": "WORKS_AT",
+        "object": "Wipro"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Wipro",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Wipro",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Avasant's",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Avasant's",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Everest Group's",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Everest Group's",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "APMEA",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "wipro press-release-q2fy26.pptx",
+        "subject": "Americas 2",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "GBP/USD",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "AUD/USD",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Aparna Iyer",
+        "predicate": "WORKS_AT",
+        "object": "INR 5"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Wipro",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Wipro",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Everest Group's",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Everest Group's",
+        "predicate": "LOCATED_IN",
+        "object": "UK"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "Americas 2",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "APMEA",
+        "predicate": "LOCATED_IN",
+        "object": "Japan"
+    },
+    {
+        "source_document": "wipro_press-release-q1fy26.pptx",
+        "subject": "IFRS",
+        "predicate": "LOCATED_IN",
+        "object": "INR Mn"
+    },
+    {
+        "source_document": "Accenture.json",
+        "subject": "AWSC",
+        "predicate": "LOCATED_IN",
+        "object": "Norway"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon.com",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Amazon"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Amazon.com"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Amazon Web Services"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "AWS"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Kuiper Systems"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon Web Services",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon Web Services",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "AWS",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "AWS",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Kuiper Systems",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Kuiper Systems",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Ring, Twitch",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon Music",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "China"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "AWS",
+        "predicate": "LOCATED_IN",
+        "object": "China"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Fire",
+        "predicate": "LOCATED_IN",
+        "object": "China"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "New York City"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "Roseburg"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "Oregon"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "LOCATED_IN",
+        "object": "New York City"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "LOCATED_IN",
+        "object": "Roseburg"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "LOCATED_IN",
+        "object": "Oregon"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Jeff Bezos",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "COVID-19",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "AWS",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "COVID-19",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Andy Jassy",
+        "predicate": "WORKS_AT",
+        "object": "Amazon"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Andy Jassy",
+        "predicate": "WORKS_AT",
+        "object": "AWS"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Andy Jassy",
+        "predicate": "WORKS_AT",
+        "object": "COVID-19"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Andy Jassy",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Amazon.json",
+        "subject": "Andy Jassy",
+        "predicate": "LOCATED_IN",
+        "object": "France"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "Soci\u00e9t\u00e9",
+        "predicate": "LOCATED_IN",
+        "object": "Paris"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "Soci\u00e9t\u00e9",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "the U.S. Operation",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "the U.S. Operation",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "the U.S. Operation",
+        "predicate": "LOCATED_IN",
+        "object": "Milwaukee"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "the Hoskyns Group",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "the Hoskyns Group",
+        "predicate": "LOCATED_IN",
+        "object": "Milwaukee"
+    },
+    {
+        "source_document": "Capgemini.json",
+        "subject": "Kanbay",
+        "predicate": "LOCATED_IN",
+        "object": "US"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Forbes",
+        "predicate": "LOCATED_IN",
+        "object": "Stanford"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Scott Hassan",
+        "predicate": "WORKS_AT",
+        "object": "Forbes"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Scott Hassan",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Scott Hassan",
+        "predicate": "LOCATED_IN",
+        "object": "Stanford"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Brin",
+        "predicate": "LOCATED_IN",
+        "object": "Stanford"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Susan Wojcicki's",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Susan Wojcicki's",
+        "predicate": "WORKS_AT",
+        "object": "BackRub"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Rajeev Motwani",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Rajeev Motwani",
+        "predicate": "WORKS_AT",
+        "object": "BackRub"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Terry Winograd",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Terry Winograd",
+        "predicate": "WORKS_AT",
+        "object": "BackRub"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Cisco",
+        "predicate": "LOCATED_IN",
+        "object": "Stanford"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Cisco"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Jeff Bezos",
+        "predicate": "WORKS_AT",
+        "object": "Amazon"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Ram Shriram",
+        "predicate": "WORKS_AT",
+        "object": "Brin"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Ram Shriram",
+        "predicate": "WORKS_AT",
+        "object": "Cisco"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Ram Shriram",
+        "predicate": "WORKS_AT",
+        "object": "Amazon"
+    },
+    {
+        "source_document": "Google.json",
+        "subject": "Amazon",
+        "predicate": "LOCATED_IN",
+        "object": "Stanford"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "Armonk"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Dynamic Random-Access Memory",
+        "predicate": "WORKS_AT",
+        "object": "IBM"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Dynamic Random-Access Memory",
+        "predicate": "WORKS_AT",
+        "object": "DRAM"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Dynamic Random-Access Memory",
+        "predicate": "WORKS_AT",
+        "object": "quantum computing"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Thomas J. Watson",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Thomas J. Watson",
+        "predicate": "LOCATED_IN",
+        "object": "Ohio"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Thomas J. Watson",
+        "predicate": "LOCATED_IN",
+        "object": "Washington"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "Thomas J. Watson",
+        "predicate": "LOCATED_IN",
+        "object": "Toronto"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "IBM",
+        "predicate": "LOCATED_IN",
+        "object": "New York City"
+    },
+    {
+        "source_document": "IBM.json",
+        "subject": "RAMAC",
+        "predicate": "LOCATED_IN",
+        "object": "New York"
+    },
+    {
+        "source_document": "Tech_Mahindra.json",
+        "subject": "Mahindra Satyam",
+        "predicate": "WORKS_AT",
+        "object": "Satyam Computer Services"
+    },
+    {
+        "source_document": "Tech_Mahindra.json",
+        "subject": "Mahindra Satyam",
+        "predicate": "WORKS_AT",
+        "object": "Anand Mahindra"
+    },
+    {
+        "source_document": "Tech_Mahindra.json",
+        "subject": "C. P. Gurnani",
+        "predicate": "WORKS_AT",
+        "object": "Anand Mahindra"
+    },
+    {
+        "source_document": "Wipro.json",
+        "subject": "Wipro",
+        "predicate": "PROVIDES",
+        "object": "8086"
+    },
+    {
+        "source_document": "Wipro.json",
+        "subject": "Azim Premji",
+        "predicate": "PROVIDES",
+        "object": "8086"
+    },
+    {
+        "source_document": "Wipro.json",
+        "subject": "Wipro Systems",
+        "predicate": "PROVIDES",
+        "object": "8086"
+    }
+]
