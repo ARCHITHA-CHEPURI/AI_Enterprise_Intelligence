@@ -6,22 +6,44 @@ import requests
 from sentence_transformers import SentenceTransformer
 
 # Configuration
-INDEX_FILE = "faiss_index.bin"
-METADATA_FILE = "vector_metadata.json"
-MODEL_NAME = "all-MiniLM-L6-v2"
-OLLAMA_MODEL = "llama3.2:1b"
-OLLAMA_URL = "http://localhost:11434/api/generate"
+INDEX_FILE = os.getenv("INDEX_FILE", "faiss_index.bin")
+METADATA_FILE = os.getenv("METADATA_FILE", "vector_metadata.json")
+MODEL_NAME = os.getenv("MODEL_NAME", "all-MiniLM-L6-v2")
+OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2:1b")
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
 
-# Initialize models and data
-print("Loading retrieval models and data...")
-model = SentenceTransformer(MODEL_NAME)
-index = faiss.read_index(INDEX_FILE)
+# Initialize models and data lazily
+_model = None
+_index = None
+_metadata = None
 
-with open(METADATA_FILE, "r", encoding="utf-8") as f:
-    metadata = json.load(f)
+def get_retrieval_assets():
+    """Load and return retrieval models and metadata lazily."""
+    global _model, _index, _metadata
+    if _model is None:
+        try:
+            print("Loading retrieval models and data...")
+            _model = SentenceTransformer(MODEL_NAME)
+            if os.path.exists(INDEX_FILE):
+                _index = faiss.read_index(INDEX_FILE)
+            else:
+                print(f"Warning: Index file {INDEX_FILE} not found.")
+            
+            if os.path.exists(METADATA_FILE):
+                with open(METADATA_FILE, "r", encoding="utf-8") as f:
+                    _metadata = json.load(f)
+            else:
+                print(f"Warning: Metadata file {METADATA_FILE} not found.")
+        except Exception as e:
+            print(f"Error loading retrieval assets: {e}")
+    return _model, _index, _metadata
 
 def retrieve(query, k=8):
     """Retrieve top-k relevant chunks for a query with keyword filtering and similarity scores."""
+    model, index, metadata = get_retrieval_assets()
+    if not model or not index or not metadata:
+        return []
+
     # 1. Embed query
     query_vector = model.encode([query]).astype("float32")
     
@@ -31,7 +53,6 @@ def retrieve(query, k=8):
     candidates = []
     # distances are squared L2 distances in FAISS by default if using IndexFlatL2
     # We want to convert them to a confidence score (0-1)
-    # For cosine similarity, higher is better. For L2, lower is better.
     for i, idx in enumerate(indices[0]):
         if idx != -1 and idx < len(metadata):
             chunk = metadata[idx].copy()
